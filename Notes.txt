@@ -1,0 +1,3 @@
+git clone "ssh地址"  //从github拉代码
+git remote // 查看仓库名
+git push 仓库名 main //代码修改上传github
