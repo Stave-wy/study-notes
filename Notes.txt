@@ -6,3 +6,4 @@ git remote  // 查看仓库名
 git push 仓库名 main  //代码修改上传GitHub
 git remote add 要设置的仓库名 ssh地址  //除git clone外，另一种关联本地和远程仓库的方式
 git pull 上一行设置的仓库名 HEAD  //从远程仓库拉代码，HEAD为本地分支
+npx nodemon src/xxx.ts  //运行ts文件
